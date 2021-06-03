@@ -1,0 +1,7 @@
+SLHymSuperLiHashtag.xcodeproj/xcuserdata/
+SLHymSuperLiHashtag.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+SLHymSuperLiHashtag.xcodeproj/project.xcworkspace/xcuserdata/
